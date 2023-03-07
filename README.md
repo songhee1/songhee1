@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🙌hi welcome to songhee github!%20render&fontSize=90)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=songhee1)](https://solved.ac/songhee1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhee1&show_icons=true&theme=jolly)
