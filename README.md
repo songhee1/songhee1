@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=hi%20i'm%20songhee!&fontSize=90&animation=fadeIn&theme=radical)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=hi%20i'm%20songhee!&fontSize=90&animation=fadeIn&theme=radical"><br><br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhee1&layout=compact"><br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -39,4 +43,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhee1&show_icons=true&theme=jolly)
+<img src="https://github-readme-stats.vercel.app/api?username=songhee1&show_icons=true&theme=jolly">
+
+</p>
