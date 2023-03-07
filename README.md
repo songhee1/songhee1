@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=hi%20i'm%20songhee!&fontSize=90&animation=fadeIn&theme=radical)
 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=songhee1)](https://solved.ac/songhee1)
+
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhee1&show_icons=true&theme=jolly)
