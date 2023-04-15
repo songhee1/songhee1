@@ -64,7 +64,14 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
 <h3 align="center">💎 My Baekjoon Online Judge Stats 💎</h3>
-
+<div align="center">
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
+ 
+</div>
+ 
+<br>
+<br>
+<br>
+<br>
