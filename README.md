@@ -1,5 +1,11 @@
 <h1 align="center"> Hi there 👋</h1>
 
+<br>
+<br>
+<br>
+<br>
+
+
 <!--
 **songhee1/songhee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,9 +48,21 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@songheechoi"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songheechoi"/></a>&nbsp
 
 </p>
+
 <br>
+<br>
+<br>
+<br>
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=songhee1&show_icons=true&theme=jolly">
 </p>
+
+<br>
+<br>
+<br>
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
