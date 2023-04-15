@@ -65,4 +65,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
+<h3>💎 My Baekjoon Online Judge Stats 💎</h3>
+<p align="center">
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
+</p>
