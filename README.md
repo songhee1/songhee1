@@ -41,6 +41,10 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-007396?style=flat-square&logo=Spring&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-3766AB?style=flat-square&logo=MyBatis&logoColor=red"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-339933?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySql-61DAFB?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
 <br>
 <h3 align="center">⚡ writing ⚡</h3>
