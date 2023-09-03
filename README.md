@@ -26,12 +26,12 @@ Here are some ideas to get you started:
  <h4 align="center">
     안녕하세요 풀스택 개발에 관심이 많은 최송희입니다! <br>
     좋은 코드에 대해 배우고자 하며 오늘도 나아가는 중! <br>
+ </h4>
 
 <hr>
 
 <p>[2023.07~2023.09] KB 국민은행 IT 아카데미 4기 수료</p>
   
-        </h4>
 <br>
 <p  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhee1&layout=compact">
