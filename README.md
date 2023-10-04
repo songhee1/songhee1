@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p>[2023.07~2023.09] KB 국민은행 IT 아카데미 4기 수료</p>
   
 <br>
 <p  align="center">
