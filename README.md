@@ -1,11 +1,5 @@
 <h1> Hi there 👋</h1>
 
-<br>
-<br>
-<br>
-<br>
-
-
 <!--
 **songhee1/songhee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
