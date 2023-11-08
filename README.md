@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-  
-<br>
-<br>
-
 <h3>📚 Tech Stack 📚</h3>
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -52,9 +48,6 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@songheechoi"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songheechoi"/></a>&nbsp
 </p>
 
-<br>
-<br>
-
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <p>
  
@@ -62,16 +55,10 @@ Here are some ideas to get you started:
 
 </p>
 
-<br>
-<br>
-
 <h3>🌟 My favorite language 🌟</h3>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhee1&layout=compact">
 </p>
-
-<br>
-<br>
 
 <h3>💎 My Baekjoon Online Judge Stats 💎</h3>
 
@@ -80,8 +67,6 @@ Here are some ideas to get you started:
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
 
 </div>
- 
-<br>
-<br>
+
 <br>
 <br>
