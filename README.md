@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<img  src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hi%20i'm%20songhee!&fontSize=90&animation=fadeIn"><br><br>
-</p>
+
+![songhee1's header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Songhee&theme=cobaltfont&Size=30&fontAlignY=40&fontAlign=70&animation=twinkling&desc=coding&descAlign=84)
+
+
  <h4>
     안녕하세요 풀스택 개발에 관심이 많은 최송희입니다 👩‍💻 좋은 코드에 대해 배우고자 하며 오늘도 나아가는 중! <br>
  </h4>
