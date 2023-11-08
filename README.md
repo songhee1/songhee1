@@ -26,16 +26,15 @@ Here are some ideas to get you started:
 
 <h3>📚 Tech Stack 📚</h3>
 <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-007396?style=flat-square&logo=Spring&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MyBatis-3766AB?style=flat-square&logo=MyBatis&logoColor=red"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-339933?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySql-#4479A1?style=flat-square&logo=MySql&logoColor=#4479A1"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-007396?style=for-the-badge&logo=Spring&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-3766AB?style=for-the-badge&logo=MyBatis&logoColor=red"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-339933?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 <br>
 <h3>⚡ writing ⚡</h3>
