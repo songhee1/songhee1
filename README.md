@@ -54,13 +54,14 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhee1&layout=compact">
 </p>
 
+/*
 <h3>💎 My Baekjoon Online Judge Stats 💎</h3>
-
 <div>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
 
 </div>
+*/
 
 <br>
 <br>
