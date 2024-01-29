@@ -55,13 +55,14 @@ Here are some ideas to get you started:
 </p>
 
 
-//<h3>💎 My Baekjoon Online Judge Stats 💎</h3>
-//<div>
+<!--
+<h3>💎 My Baekjoon Online Judge Stats 💎</h3>
+<div>
 
- //[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghenrhkwk88)](https://solved.ac/ghenrhkwk88)
 
-//</div>
-
+</div>
+-->
 
 <br>
 <br>
