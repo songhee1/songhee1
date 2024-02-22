@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
  <h4>
-    안녕하세요 풀스택 개발에 관심이 많은 최송희입니다 👩‍💻 좋은 코드에 대해 배우고자 하며 오늘도 나아가는 중! <br>
+    안녕하세요 백엔드개발에 관심이 많은 최송희입니다 👩‍💻 좋은 코드에 대해 배우고자 하며 오늘도 나아가는 중! <br>
  </h4>
 
 <hr>
@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 <h3>📚 Tech Stack 📚</h3>
 <p>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-007396?style=for-the-badge&logo=Spring&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/MyBatis-3766AB?style=for-the-badge&logo=MyBatis&logoColor=red"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-339933?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp
