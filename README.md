@@ -35,10 +35,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-339933?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 <br>
+<!--
 <h3>⚡ writing ⚡</h3>
 <p>
   <a href="https://velog.io/@songheechoi"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songheechoi"/></a>&nbsp
 </p>
+-->
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <p>
